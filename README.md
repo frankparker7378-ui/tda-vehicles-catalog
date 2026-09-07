@@ -1,11 +1,10 @@
-# tda-vehicles-catalog
+# TDA vehicles catalog
 
-Public backup of the That 70s Roleplay / QBX vehicles.lua rebuild.
+Production drop-in: `vehicles.lua` (vx50, 7 Sep 2026)
 
-- Live spawnable: 971
-- Dashed / held out: 1301
-- Price = first-year USD MSRP of the real-world counterpart
-- Price 999999 = no retail MSRP found
-- QBX must define shops `trailers` and `campers`
+- 972 live + 1380 dashed
+- QBX / ox_inventory vehicles.lua
+- Real-world year / make / model only in comments
 
-Drop vehicles.lua from the Grok download card if the large file is not in this repo yet.
+Raw download:
+https://raw.githubusercontent.com/frankparker7378-ui/tda-vehicles-catalog/main/vehicles.lua
